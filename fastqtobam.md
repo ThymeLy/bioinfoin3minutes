@@ -7,7 +7,7 @@ bwa index -a bwtsw
 bwtsw: Algorithm implemented in BWT-SW. This method works with the whole human genome
 
 ### Alignment to generate sam (remember to redirect output to file)
-bwa mem -t 4 <reference> <read_1> <read_2> > yourfile.sam  
+bwa mem -t 4 reference.fa read_1 read_2 > yourfile.sam  
 
 -t: thread
 
