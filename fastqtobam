@@ -3,7 +3,7 @@
 ## Alignment
 
 ### genome indexing 
-bwa index -a bwtsw
+bwa index -a bwtsw reference.fa
 
 bwtsw: Algorithm implemented in BWT-SW. This method works with the whole human genome
 
