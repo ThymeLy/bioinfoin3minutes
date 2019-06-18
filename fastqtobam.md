@@ -33,6 +33,6 @@ samtools view -b inputfile -o output_sorted.bam
 ==============================================================
 
 #### info from 
-https://www.biostars.org/p/65146/  
-http://bio-bwa.sourceforge.net/bwa.shtml  
-http://www.htslib.org/doc/samtools-1.1.html
+[biostar thread - read alignment to specific chromosome](https://www.biostars.org/p/65146/)  
+[BWA manual](http://bio-bwa.sourceforge.net/bwa.shtml)  
+[samtools manual](http://www.htslib.org/doc/samtools-1.1.html)
