@@ -1,6 +1,7 @@
 # fastqtobam
 
 ## Alignment
+
 ### genome indexing 
 bwa index -a bwtsw
 
@@ -33,6 +34,6 @@ samtools view -b inputfile -o output_sorted.bam
 ================================================================================================
 
 #### info from 
-https://www.biostars.org/p/65146/
-http://bio-bwa.sourceforge.net/bwa.shtml
+https://www.biostars.org/p/65146/ \n
+http://bio-bwa.sourceforge.net/bwa.shtml \n
 http://www.htslib.org/doc/samtools-1.1.html
