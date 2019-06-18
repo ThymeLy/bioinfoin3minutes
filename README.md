@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## Bioinfo in 3 minutes
 
-You can use the [editor on GitHub](https://github.com/ThymeLy/bioinfoin3minutes/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+Beginner bioinfo concepts in 3 minutes or less
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[fastqtobam](https://thymely.github.io/bioinfoin3minutes/fastqtobam)
+
 
 ### Markdown
 
@@ -36,4 +37,3 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-fastqtobam.md
