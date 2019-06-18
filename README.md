@@ -2,7 +2,8 @@
 
 Beginner bioinfo concepts in 3 minutes or less
 
-[fastqtobam](https://thymely.github.io/bioinfoin3minutes/fastqtobam)
+From sequencing reads to bam file
+[fastqtobam](https://github.com/ThymeLy/bioinfoin3minutes/blob/gh-pages/fastqtobam.md)
 
 
 ### Markdown
