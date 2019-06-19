@@ -5,7 +5,7 @@ Beginner bioinfo concepts in 3 minutes or less
 From sequencing reads to bam file
 [fastqtobam](https://thymely.github.io/bioinfoin3minutes/fastqtobam)
 
-//
+<>
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
