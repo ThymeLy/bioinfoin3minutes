@@ -1,5 +1,7 @@
 # fastqtobam
-From filtered sequencing reads right up to bam file for visualisation in genome viewer
+From filtered sequencing reads (fastq) right up to aligned reads (bam file) for visualisation in genome viewer
+
+General workflow (alignment): index genome -> alignment (output as sam file) -> sort according to genomic position (and into bam file) -> index sorted reads -> genome viewer
 
 ## Alignment
 
@@ -15,7 +17,7 @@ bwa mem -t 4 reference.fa read_1 read_2 > yourfile.sam
 ```
 -t: thread
 
-### sort bam according to genomic position 
+### sort bam according to genomic position
 ```
 samtools sort -o output.bam -O bam -@ 8 inputfile.bam  
 ```
