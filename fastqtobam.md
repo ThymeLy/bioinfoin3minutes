@@ -18,12 +18,12 @@ bwa mem -t 4 reference.fa read_1 read_2 > yourfile.sam
 ```
 samtools sort -o output.bam -O bam -@ 8 inputfile.bam  
 ```
--o: write to file instead on terminal
--O: output format
+-o: write to file instead on terminal  
+-O: output format  
 -@: number of threads
 
 ### index bam file by samtools - index a coordinate-sorted bam file (need to index bam file in order to view with genome viewer)
-````
+```
 samtools index yourfile.bam 
 ```
 ## -- Aligned reads ready to be view in genome viewer such as IGV and Tablet. 
