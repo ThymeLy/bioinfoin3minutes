@@ -1,4 +1,5 @@
 # fastqtobam
+From filtered sequencing reads right up to bam file for visualisation in genome viewer
 
 ## Alignment
 
