@@ -2,7 +2,7 @@
 
 As a wet-lab person starting to use some of the bioinformatics tools to analyse NGS data, it seems like a completely different world.
 Unless you have an IT support team, chances are, you're likely to have to install some of the tools for your own use.
-And if you never tried before, the most frustrating is that part where you can't even begin you analysis yet. Yes, that is the tool installlation itself.
+And if you never tried before, the most frustrating is the part where you can't even begin your analysis. Yes, that is you stuck at the very first step -- **tool installation** itself.
 Perhaps it's like what stated in Murphy's law, "whatever can go wrong, will go wrong".
 
 Different types of error, compiling error, missing libraries, missing dependencies. One after another that cropped up that make even the 
@@ -20,5 +20,5 @@ e.g. **missing library, segmentation fault, cannot locate xxx, failed to make xx
 If you can identify the main problem right early, the work left then is just googling how to install that specific library or updating the
 dependency, and voila, the installation works finally (although in my case I still usually don't know how or why it works anyway).
 
-So, trace back to the first error message and look out for keywords before the error message, usually "missing xxx", "cannot locate xxx", 
+So, trace back to the first error message and look out for keywords before the error message, usually **"missing xxx", "cannot locate xxx"**, 
 and hopefully it will help locating the problem-causing element earlier.
