@@ -16,7 +16,7 @@ suggestions from forums (biostar, seqanswer, stack overflow) and try them out on
 the program.
 
 Over time, I realised that if you know how to read the error message, where it is usually the first error that pop up is the crux of the problem.
-e.g. missing library, segmentation fault, cannot locate xxx, failed to make xx/src.
+e.g. **missing library, segmentation fault, cannot locate xxx, failed to make xx/src, recipe for target 'xx' failed**.
 If you can identify the main problem right early, the work left then is just googling how to install that specific library or updating the
 dependency, and voila, the installation works finally (although in my case I still usually don't know how or why it works anyway).
 
