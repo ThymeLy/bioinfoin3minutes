@@ -5,6 +5,8 @@ Beginner bioinfo concepts in 3 minutes or less
 From sequencing reads to bam file
 [fastqtobam](https://thymely.github.io/bioinfoin3minutes/fastqtobam)
 
+[how to locate installation error] (https://thymely.github.io/bioinfoin3minutes/locating_installation_error)
+
 <!--
 ### Markdown
 
