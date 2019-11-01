@@ -10,7 +10,7 @@ installation of tool itself difficult, let alone starting the analysis.
 Spending days after days (okay, perhaps I'm the one that is slower in catching up) frustrated at the idea that you can't even complete a simple program installation,
 even doubting yourself.
 
-The most important skill I found important in troubleshooting this kind of error is ** knowing how to read error message **.
+The most important skill I found important in troubleshooting this kind of error is **knowing how to read error message**.
 When I just starting out (although I'm still quite new), I used to just copy and paste the error message in Google and try to read comments and
 suggestion from forums (biostar, seqanswer, stack overflow) and try them out one by one, which often take days to finally manage to install
 the program.
