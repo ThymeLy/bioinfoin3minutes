@@ -31,7 +31,7 @@ However, MNase digestion has a more pronounced sequence bias than sonication, an
 ### Data analysis
 #### scoring peaks
 - sharp, broad, mixed peaks
-  Sharp peaks are generally found for protein–DNA binding or histone modifications at regulatory elements, whereas broad regions are often associated with histone modifications that mark domains 
+    Sharp peaks are generally found for protein–DNA binding or histone modifications at regulatory elements, whereas broad regions are often associated with histone modifications that mark domains 
 - The performance of a peak caller can be tested by validating a large set of sites using quantitative PCR or by computing the distribution of distances from each peak to a nearby known protein-binding sequence motif.
 
 #### downstream analysis
