@@ -7,6 +7,9 @@ From sequencing reads to bam file
 
 The most important skill for biologist dabbling in bioinformatics [locating program installation error](https://liaw2019.github.io/bioinfoin3minutes/locating_installation_error)
 
+ChIP-seq [technical consideration](https://liaw2019.github.io/bioinfoin3minutes/ChIP-seq)
+
+setting [window size](https://liaw2019.github.io/bioinfoin3minutes/window_size) 
 <!--
 ### Markdown
 
