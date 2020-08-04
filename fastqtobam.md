@@ -18,7 +18,7 @@ bwa mem -t 4 reference.fa read_1 read_2 > yourfile.bam
 -t: thread
 
 ### sort bam according to genomic position of reference genome 
-step above only generate alignment according to your read sequence (as it is come out from your sequencer, your genome visualiser require reads to be in the correct order as the reference genome in order to open the file.
+step above only generate alignment according to your read sequence (as it is come out from your sequencer), your genome visualiser require reads to be in the correct order as the reference genome in order to open the file.
 ```
 samtools sort -o output.bam -O bam -@ 8 inputfile.bam  
 ```
